@@ -1,0 +1,10 @@
+#!/media/prateek/Windows/wiki_app/venv/bin/python3
+# EASY-INSTALL-ENTRY-SCRIPT: 'segtok==1.5.7','console_scripts','tokenizer'
+__requires__ = 'segtok==1.5.7'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('segtok==1.5.7', 'console_scripts', 'tokenizer')()
+    )

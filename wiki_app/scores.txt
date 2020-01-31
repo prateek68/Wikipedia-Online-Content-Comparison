@@ -1,0 +1,247 @@
+Kanyakumari--> 0.43587008
+Chastity--> 0.3322522
+Chikmagalur--> 0.39753678
+Vinay Lal--> 0.5443397
+Joseph Chamberlain--> 0.4579482
+Parliament of India--> 0.49288505
+Joseph Lelyveld--> 0.46510285
+Tirukkuṛaḷ--> 0.49347872
+Ottoman Empire--> 0.26043183
+Indian Muslim--> 0.42935488
+Eric Sharpe--> 0.44051513
+Arnold Hills--> 0.3947207
+Messiah--> 0.469223
+Self-Realization Fellowship Lake Shrine--> 0.4620078
+Lanza del Vasto--> 0.51343614
+Manilal--> 0.36232665
+Tushar Gandhi--> 0.74003375
+Pranami--> 0.59531605
+Boer War--> 0.40546545
+Prahlada--> 0.50134885
+Indigo dye--> 0.26037478
+Zionism--> 0.5093014
+Philip Glass--> 0.27390128
+Slavoj Žižek--> 0.43553263
+Chaman Nahal--> 0
+Jnana yoga--> 0.5357257
+Ummah--> 0.3816418
+Steve Biko--> 0.5070922
+ascetic--> 0
+Direct Action Day--> 0.5791652
+passive resistance--> 0
+Rajmohan Gandhi--> 0.6093803
+Sangam at Allahabad--> 0.49852028
+Anything Goes--> 0.18314463
+Communal Award--> 0.58063555
+West Ham United--> 0.23345402
+Upanishadic--> 0.45898712
+India House--> 0.5047526
+Chitta Ranjan Das--> 0.73108584
+Sita--> 0.5114735
+International Day of Nonviolence--> 0.6624905
+Bayswater--> 0.3293022
+Ramachandra Guha--> 0.5096716
+Malaria--> 0.3702567
+Barack Obama--> 0.44683436
+Diet--> 0
+Aga Khan Palace--> 0.68328923
+Purdah--> 0.3806131
+Illinois--> 0.25283772
+Holocaust--> 0.4091361
+Devdas--> 0.41259268
+Temperance--> 0
+Pujya Gurudevshri Rakeshbhai--> 0.56600004
+Academy Award--> 0.22436821
+The Making of the Mahatma--> 0.56668067
+Sunni--> 0.37838125
+Ambedkar--> 0
+Bhagavata Purana--> 0.42539325
+Lech Wałęsa--> 0.43974912
+LL.D.--> 0.3391092
+Sambalpur--> 0.37977132
+Lahore--> 0.42428237
+Krishna--> 0.5922018
+Caliph--> 0.37756208
+Sushila Nayyar--> 0.56460255
+Mahatma Gandhi District--> 0.42749006
+Colony of Natal--> 0.43167612
+Truth--> 0.3243488
+Archibald Wavell--> 0.48509634
+Religious pluralism--> 0.38658756
+Telangana--> 0.42389274
+A Letter to a Hindu--> 0.6953227
+Louis Fischer--> 0.52955633
+Environmental philosophy--> 0.27379864
+Captain of industry--> 0.27666092
+Rajguru--> 0.6040729
+Jallianwala Bagh massacre--> 0.62118375
+American Friends Service Committee--> 0.5136086
+Aga Khan--> 0.40923414
+Martyrs' Day--> 0.44508326
+Aung San Suu Kyi--> 0.51107395
+Hindu extremists--> 0.46547848
+Bangladesh--> 0.41979054
+Udham Singh--> 0.57641363
+Appendicitis--> 0.22844897
+Bhakti yoga--> 0.5165989
+Yoga--> 0.4451762
+Khan Abdul Ghaffar Khan--> 0.61961585
+Princely state--> 0.43671548
+Hitler--> 0.55101246
+The Story of My Experiments with Truth--> 0.73370105
+Pandikattu--> 0.51823217
+Reserve Bank of India--> 0.45345816
+Pietermaritzburg--> 0.3514047
+Mussolini--> 0.55037844
+Girgaum Chowpatty--> 0.50944006
+Vedas--> 0.4852054
+20th-century philosophy--> 0.21141158
+Partition--> 0
+Khilafat Movement--> 0.63057655
+Civil disobedience--> 0.5248279
+Martial race--> 0.4476594
+Civil rights movement--> 0.49286744
+Cesar Chavez--> 0.48990104
+Queen's South Africa Medal--> 0.3471506
+Zulu Kingdom--> 0.4516782
+Dowry--> 0.3441638
+Hannah Arendt--> 0.40270275
+Maurice Blanchot--> 0.31398574
+Cannes Lions International Advertising Festival--> 0.32196304
+Man of the Year--> 0.20619863
+Rowlatt Act--> 0.64915866
+Jews--> 0.30756712
+Advaita Vedanta--> 0.52853614
+Henry Stephens Salt--> 0.53324187
+Sarojini Naidu--> 0.6248671
+Diwan--> 0
+Nagpur--> 0.4819105
+Ruskin--> 0
+George Orwell--> 0.3911152
+Romain Rolland--> 0.531733
+Harishchandra--> 0.47657365
+Jihad--> 0.40226912
+called to the bar--> 0
+Vivisection--> 0.35025415
+Vithalbhai Jhaveri--> 0
+Nobel Peace Prize--> 0.43281004
+Quran--> 0.41470242
+Modh--> 0.45937222
+Martin Buber--> 0.48204595
+Person of the Century--> 0.36898515
+Ben Kingsley--> 0.42768523
+Transvaal--> 0
+Indian subcontinent--> 0.42661604
+declared war--> 0
+Etienne Balibar--> 0.336758
+Karamchand Uttamchand Gandhi--> 0
+Ramayana--> 0.49639884
+University of Nagpur--> 0.43038207
+Ahmedabad--> 0.51069844
+Winston Churchill--> 0.6016942
+Sufi Islam--> 0.45669886
+You're the Top--> 0.2728455
+Natal Indian Ambulance Corps--> 0
+Indigofera--> 0.27454507
+Gandhi, My Father--> 0.54516476
+Nile River--> 0.31409016
+Fruitarianism--> 0.43100956
+National holiday--> 0
+Whites in South Africa--> 0.30939323
+I Have a Dream--> 0.5264666
+Nalgonda--> 0.33547693
+arranged--> 0
+West Bengal--> 0.5097005
+Swaminarayan--> 0.48625717
+Young India--> 0.6774369
+Madurai--> 0.48169625
+Rajkot--> 0.4813436
+Battle of Colenso--> 0.43434504
+Ottoman Caliphate--> 0.42319235
+Birla House--> 0.6557098
+Justice--> 0.34940693
+Durban--> 0.37567088
+Inner Temple--> 0.24345326
+Poona Pact--> 0.6178598
+Bollywood--> 0.31437296
+Tej Bahadur Sapru--> 0.60741436
+India's Independence Day--> 0.6161297
+Sangeet Natak Akademi--> 0.34277606
+Bhikhu Parekh--> 0.51022816
+James Bevel--> 0.52388895
+Gandhi–Irwin Pact--> 0.67942214
+Ramdas--> 0
+Edwin Arnold--> 0.4422886
+All-India Radio--> 0.44918087
+Karma yoga--> 0.53990483
+Muhammad--> 0.47729564
+President of South Africa--> 0.41868594
+West End--> 0
+Christianity--> 0.32938692
+Vaishnava--> 0.46371895
+Hind Swaraj or Indian Home Rule--> 0.6859844
+Fakir--> 0.46946263
+Community of the Ark--> 0
+On the Duty of Civil Disobedience--> 0.53812796
+Jean-Luc Nancy--> 0.22629976
+Brahmin--> 0.45647803
+civil rights--> 0
+Reginald Dyer--> 0.4963683
+Harijan--> 0.6767907
+national holiday in India--> 0
+Sikh--> 0.5067367
+Bhavnagar State--> 0.47511485
+Indian Opinion--> 0.6599464
+Planned economy--> 0.32888255
+cross-examine--> 0
+Hindu nationalist--> 0.56772405
+Welcome Back Gandhi--> 0
+Kingsley Hall--> 0.6092819
+Mustafa Kemal Atatürk--> 0.4513719
+Hermann Kallenbach--> 0.62022996
+Sidney Silverman--> 0.38032177
+Stanley Wolpert--> 0.4266799
+Me Nathuram Godse Boltoy--> 0.55353844
+Yerwada Jail--> 0.583586
+Andhra Pradesh--> 0.42473125
+Chishti Order--> 0.42903882
+Honorific--> 0.2627572
+non-resistance--> 0
+C. F. Andrews--> 0.6576805
+World War I--> 0.34756592
+Madeleine Slade--> 0.5967822
+Nadiad--> 0.4870798
+Karnataka--> 0.40849975
+Shrimad Rajchandra--> 0.6319496
+Lage Raho Munna Bhai--> 0.5040326
+Raam--> 0
+Webb Miller--> 0.3072986
+Houston--> 0.20797944
+Tolstoy--> 0.5037695
+United Provinces of Agra and Oudh--> 0.44231677
+Gujarati--> 0
+Maulana Abul Kalam Azad--> 0.6842799
+Khaksars--> 0.5405085
+Khanqah--> 0.39846995
+Rama--> 0.5780937
+Pyarelal--> 0.67293084
+Christophe Jaffrelot--> 0.4286798
+British--> 0
+Natal Indian Congress--> 0.5975019
+East End--> 0.3358722
+Benigno Aquino, Jr.--> 0.3721588
+Thoreau--> 0.55951476
+Gandhi Peace Prize--> 0.6196576
+Spion Kop--> 0
+Time magazine--> 0.27537552
+indentured workers--> 0
+Kathiawar Agency--> 0.43955645
+Cole Porter--> 0.22354606
+Round Table Conferences--> 0.6154798
+The Kingdom of God Is Within You--> 0.590577
+Richard Attenborough--> 0.49414557
+Constitution of India--> 0.5684735
+Philosophy of technology--> 0.2536771
+Maria Lacerda de Moura--> 0.4813277
+Dominion--> 0.37604052
+Jinja, Uganda--> 0.38192698

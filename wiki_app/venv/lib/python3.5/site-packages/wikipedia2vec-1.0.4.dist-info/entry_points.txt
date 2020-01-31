@@ -1,0 +1,3 @@
+[console_scripts]
+wikipedia2vec = wikipedia2vec.cli:cli
+
