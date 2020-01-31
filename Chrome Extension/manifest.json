@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+
+  "name": "Wikipedia Analysis",
+  "description": "Analyse wikipedia pages i multiple languages.",
+  "version": "1.0",
+
+  "page_action": {
+    "default_popup": "popup.html",
+    "css": [ "list.css" ],
+    "default_title": "PageFontStyle"
+  },
+
+  "background": {
+    "scripts": ["eventPage.js"],
+    "persistent": false
+  },
+
+  "content_scripts":[
+    {
+      "matches": ["https://*.wikipedia.org/*"],
+      "css": [ "list.css" ],
+      "js": ["content.js", "jquery-3.4.1.min.js"]
+    }
+  ],
+
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "https://*.wikipedia.org/*" ,
+    "storage",
+    "notifications"
+  ]
+}
